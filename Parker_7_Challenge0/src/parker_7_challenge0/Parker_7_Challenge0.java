@@ -38,7 +38,7 @@ public class Parker_7_Challenge0 {
                    if(divisibleby3(i)){
                    System.out.println("Old School");
                }else{
-                     System.out.println("Claughton");  
+                     System.out.println("Vidal");  
                    }
                }
            }else{                         
@@ -46,7 +46,7 @@ public class Parker_7_Challenge0 {
                       if(divisibleby11(i)){
                           System.out.println("Herr Direktor");
                       }else{
-                          System.out.println("Vidal");
+                          System.out.println("Claughton");
                       }
                   } 
                  }

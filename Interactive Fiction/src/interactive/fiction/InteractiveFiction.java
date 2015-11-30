@@ -69,7 +69,6 @@ public class InteractiveFiction {
             classiness = 15;
             trash = 0;
             playerhealth = 600;
-            JOHNCENAHEALTH=JOHNCENAHEALTH-300;
             combatJOHNCENA();
         }
         if (start) {

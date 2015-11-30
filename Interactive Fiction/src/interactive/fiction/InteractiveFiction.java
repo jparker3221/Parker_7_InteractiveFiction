@@ -34,7 +34,7 @@ public class InteractiveFiction {
     static int skellingtonarcher1health = 30;
     static int skellingtonwarrior1health = 40;
     static int skellingtonarmoredarcher1health = 50;
-    static int JOHNCENAHEALTH = 420420420;
+    static int JOHNCENAHEALTH = 999999999;
     //midgame
     static String dungeonB2choice1;
     static String dungeonB2choice2;
